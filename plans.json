@@ -1,31 +1,31 @@
 [
     {
       "type": "Classic",
-      "price": "$45",
+      "price": "Price $45",
       "delivery": "Free Delivery",
       "description": "Best for a budget",
       "bonus": "Classic glass vase with first delivery",
       "discount": "Save up to 25%",
-      "image": "path/to/classic_image.webp"
+      "image": "Subscr/img/Imagebouquet.webp"
     },
     {
       "type": "Seasonal",
-      "price": "$65",
+      "price": "Price $65",
       "delivery": "Free Delivery",
       "description": "Best seasonal selections",
       "bonus": "Glass vase with first delivery",
       "extraBonus": "Luxury candle with your first delivery",
       "discount": "Save up to 28%",
-      "image": "path/to/seasonal_image.webp"
+      "image": "Subscr/img/bouquet.webp"
     },
     {
       "type": "Luxe",
-      "price": "$95",
+      "price": "Price $95",
       "delivery": "Free Delivery",
       "description": "Premium arrangement",
       "extraBonus": "Luxury candle with your first delivery",
       "discount": "Save up to 30%",
-      "image": "path/to/luxe_image.webp"
+      "image": "Subscr/img/bouquet2.webp"
     }
   ]
   
