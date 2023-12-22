@@ -6,7 +6,7 @@
       "description": "Best for a budget",
       "bonus": "Classic glass vase with first delivery",
       "discount": "Save up to 25%",
-      "image": "path/to/classic_image.jpg"
+      "image": "path/to/classic_image.webp"
     },
     {
       "type": "Seasonal",
@@ -16,7 +16,7 @@
       "bonus": "Glass vase with first delivery",
       "extraBonus": "Luxury candle with your first delivery",
       "discount": "Save up to 28%",
-      "image": "path/to/seasonal_image.jpg"
+      "image": "path/to/seasonal_image.webp"
     },
     {
       "type": "Luxe",
@@ -25,7 +25,7 @@
       "description": "Premium arrangement",
       "extraBonus": "Luxury candle with your first delivery",
       "discount": "Save up to 30%",
-      "image": "path/to/luxe_image.jpg"
+      "image": "path/to/luxe_image.webp"
     }
   ]
   
