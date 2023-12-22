@@ -6,7 +6,7 @@
       "description": "Best for a budget",
       "bonus": "Classic glass vase with first delivery",
       "discount": "Save up to 25%",
-      "image": "Subscr/img/Imagebouquet.webp"
+      "image": "/Subscr/img/Imagebouquet.webp"
     },
     {
       "type": "Seasonal",
@@ -16,7 +16,7 @@
       "bonus": "Glass vase with first delivery",
       "extraBonus": "Luxury candle with your first delivery",
       "discount": "Save up to 28%",
-      "image": "Subscr/img/bouquet.webp"
+      "image": "/Subscr/img/bouquet.webp"
     },
     {
       "type": "Luxe",
@@ -25,7 +25,7 @@
       "description": "Premium arrangement",
       "extraBonus": "Luxury candle with your first delivery",
       "discount": "Save up to 30%",
-      "image": "Subscr/img/bouquet2.webp"
+      "image": "/Subscr/img/bouquet2.webp"
     }
   ]
   
