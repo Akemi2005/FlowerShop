@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-  fetch('https://raw.githubusercontent.com/Akemi2005/semeniuk/main/plans.json')
+  fetch('https://raw.githubusercontent.com/Akemi2005/FlowerShop/blob/main/plans.json')
   .then(response => response.json())
   .then(plans => {
     const planCardsContainer = document.getElementById('planCardsContainer');
