@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Snowfall",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem1.webp",
+      "price": 70
+    },
+    {
+      "name": "Dawn's Delight",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem2.webp",
+      "price": 70
+    },
+    {
+      "name": "Pink Elegance",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem3.webp",
+      "price": 70
+    },
+    {
+      "name": "Rustic Charm",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem4.webp",
+      "price": 70
+    },
+    {
+      "name": "Autumn Symphony",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem5.webp",
+      "price": 70
+    },
+    {
+      "name": "Rosy Delight",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem6.webp",
+      "price": 70
+    }
+  ]
+}
