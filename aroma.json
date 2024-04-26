@@ -1,32 +1,34 @@
-[
+{
+  "products": [
     {
       "name": "Rattan Grapefruit",
-      "image": "img/carditem1.webp",
+      "image": "Category/aroma/img/carditem1.webp",
       "price": 48
     },
     {
       "name": "Himalayan Salt & Rosewater",
-      "image": "img/carditem2.webp",
+      "image": "Category/aroma/img/carditem2.webp",
       "price": 76
     },
     {
       "name": "Charcoal Woods",
-      "image": "img/carditem3.webp",
+      "image": "Category/aroma/img/carditem3.webp",
       "price": 78
     },
     {
       "name": "Lime & Matcha",
-      "image": "img/carditem4.webp",
+      "image": "Category/aroma/img/carditem4.webp",
       "price": 46
     },
     {
       "name": "Bamboo",
-      "image": "img/carditem5.webp",
+      "image": "Category/aroma/img/carditem5.webp",
       "price": 36
     },
     {
       "name": "Driftwood",
-      "image": "img/carditem6.webp",
+      "image": "Category/aroma/img/carditem6.webp",
       "price": 78
     }
-]
+  ]
+}
