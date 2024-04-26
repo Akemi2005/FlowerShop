@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "The Savoy",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/dried/img/carditem1.webp",
+      "price": 55
+    },
+    {
+      "name": "The Suri",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/dried/img/carditem2.webp",
+      "price": 44
+    },
+    {
+      "name": "The Naomi",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/dried/img/carditem3.webp",
+      "price": 58
+    },
+    {
+      "name": "The Heath",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/dried/img/carditem4.webp",
+      "price": 60
+    },
+    {
+      "name": "Frosty Winter",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/dried/img/carditem5.webp",
+      "price": 39
+    },
+    {
+      "name": "Rosy Perfection",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/dried/img/carditem6.webp",
+      "price": 38
+    }
+  ]
+}
