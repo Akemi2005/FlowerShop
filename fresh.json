@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "Snowfall",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem1.webp",
+      "price": 70
+    },
+    {
+      "name": "Dawn's Delight",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem2.webp",
+      "price": 70
+    },
+    {
+      "name": "Pink Elegance",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem3.webp",
+      "price": 70
+    },
+    {
+      "name": "Rustic Charm",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem4.webp",
+      "price": 70
+    },
+    {
+      "name": "Autumn Symphony",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem5.webp",
+      "price": 70
+    },
+    {
+      "name": "Rosy Delight",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem6.webp",
+      "price": 70
+    },
+    {
+      "name": "Serenity",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem7.webp",
+      "price": 89
+    },
+    {
+      "name": "Blue Harmony",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem8.webp",
+      "price": 55
+    },
+    {
+      "name": "Mystical Majesty",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem9.webp",
+      "price": 80
+    },
+    {
+      "name": "Blazing Blossoms",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresh/img/carditem10.webp",
+      "price": 70
+    }
+  ]
+}
