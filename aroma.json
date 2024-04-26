@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "name": "Rattan Grapefruit",
       "image": "img/carditem1.webp",
@@ -30,5 +29,4 @@
       "image": "img/carditem6.webp",
       "price": 78
     }
-  ]
-}
+]
