@@ -2,32 +2,32 @@
   "products": [
     {
       "name": "Rattan Grapefruit",
-      "image": "Category/aroma/img/carditem1.webp",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/aroma/img/carditem1.webp",
       "price": 48
     },
     {
       "name": "Himalayan Salt & Rosewater",
-      "image": "Category/aroma/img/carditem2.webp",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/aroma/img/carditem2.webp",
       "price": 76
     },
     {
       "name": "Charcoal Woods",
-      "image": "Category/aroma/img/carditem3.webp",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/aroma/img/carditem3.webp",
       "price": 78
     },
     {
       "name": "Lime & Matcha",
-      "image": "Category/aroma/img/carditem4.webp",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/aroma/img/carditem4.webp",
       "price": 46
     },
     {
       "name": "Bamboo",
-      "image": "Category/aroma/img/carditem5.webp",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/aroma/img/carditem5.webp",
       "price": 36
     },
     {
       "name": "Driftwood",
-      "image": "Category/aroma/img/carditem6.webp",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/aroma/img/carditem6.webp",
       "price": 78
     }
   ]
