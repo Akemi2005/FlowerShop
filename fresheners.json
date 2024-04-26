@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Cedar & Lavender",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresheners/img/carditem1.webp",
+      "price": 64
+    },
+    {
+      "name": "Himalayan Salt & Rosewater",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresheners/img/carditem2.webp",
+      "price": 32
+    },
+    {
+      "name": "Wild Mint & Eucalyptus",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresheners/img/carditem3.webp",
+      "price": 58
+    },
+    {
+      "name": "Grapefruit",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresheners/img/carditem4.webp",
+      "price": 32
+    },
+    {
+      "name": "Ocean Mist",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresheners/img/carditem5.webp",
+      "price": 58
+    },
+    {
+      "name": "Driftwood",
+      "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/fresheners/img/carditem6.webp",
+      "price": 58
+    }
+  ]
+}
