@@ -1,34 +1,34 @@
 {
   "products": [
     {
-      "name": "Snowfall",
+      "name": "The Snake Plant",
       "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem1.webp",
-      "price": 70
+      "price": 137
     },
     {
-      "name": "Dawn's Delight",
+      "name": "The Fiddle Leaf Fig",
       "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem2.webp",
-      "price": 70
+      "price": 200
     },
     {
-      "name": "Pink Elegance",
+      "name": "Large Monstera Deliciosa",
       "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem3.webp",
-      "price": 70
+      "price": 172
     },
     {
-      "name": "Rustic Charm",
+      "name": "Large Majesty Palm",
       "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem4.webp",
-      "price": 70
+      "price": 200
     },
     {
-      "name": "Autumn Symphony",
+      "name": "Money Tree",
       "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem5.webp",
-      "price": 70
+      "price": 85
     },
     {
-      "name": "Rosy Delight",
+      "name": "Bird’s Nest Fern",
       "image": "https://raw.githubusercontent.com/Akemi2005/FlowerShop/main/Category/live/img/carditem6.webp",
-      "price": 70
+      "price": 74
     }
   ]
 }
